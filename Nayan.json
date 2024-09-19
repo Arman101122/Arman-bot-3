@@ -8,7 +8,7 @@
   "approval": false,
   "saveState": true,
   "BOTNAME": "Riaz-Bot",
-  "PREFIX": "/",
+  "PREFIX": "$",
   "OPERATOR": [
     "100049478452177",
     "100000959749712"
